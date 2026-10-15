@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.DS_Store
+*.egg-info/
+runs/
+results/
+*.mat
+
+# local-only (not published)
+tools/
+tests/
